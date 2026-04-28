@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="NumJudge/NumJudge.csproj" />
+  <Project Path="NumJudge2/NumJudge2.csproj" />
 </Solution>
