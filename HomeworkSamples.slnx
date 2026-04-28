@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="LoopReverse1/LoopReverse1.csproj" />
+  <Project Path="LoopReverse2/LoopReverse2.csproj" />
   <Project Path="NumJudge/NumJudge.csproj" />
   <Project Path="NumJudge2/NumJudge2.csproj" />
 </Solution>
